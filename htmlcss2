@@ -1,0 +1,68 @@
+
+head 
+
+
+
+header {  
+color: blue;
+font-family: sans-serif;
+font font-weight: normal;
+background-color: gray;
+border: 2px;
+border-width: 20%; }
+
+h1 { color: gray;  }
+
+body {  
+
+{   
+border-image: 20px;  
+background-color: blue;
+color: gray;
+font-size: 30px;   }
+
+
+div.relative {
+position: relative;
+right: 30px;
+border: 20px solid }
+
+
+
+
+
+footer { 
+ color: blue;
+font-family: sans-serif;
+font font-weight: normal;
+background-color: gray;
+border: 2px;
+border-width: 20%;
+}
+
+
+
+
+@media screen and (max-width: 980px) {
+ p {
+ 	index.html: [980px] (images/980-index.jpg) 
+ 	inedx.html: [768px] (images/768-index.jpg) 
+ 	index.html: [640px] (images/640-index.jpg) 
+
+ }
+
+@media screen and (max-width: 980px) 
+ p { portfolio.html: [980px] (images/980-portfolio.jpg)
+    portfolio.html: [768px] (images/768-portfolio.jpg)
+    portfolio.html: [640px] (images/640-portfolio.jpg)
+}
+@media screen and (max-width: 980px) 
+ p { contact.html: [980px] (images/980-contact.jpg) 
+    contact.html: [768px] (images/768-contact.jpg)
+    contact.html: [640px] (images/640-contact.jpg) }
+
+
+}
+
+
+
